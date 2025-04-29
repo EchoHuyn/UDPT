@@ -14,7 +14,7 @@ excerpt:
 
 ## 1. Hệ thống phân tán là gì?
 
-Hệ thống phân tán (**Distributed System**) là tập hợp nhiều máy tính độc lập được liên kết với nhau, phối hợp hoạt động như một hệ thống duy nhất đối với người dùng. Mỗi máy tính trong hệ thống có thể thực hiện các nhiệm vụ riêng biệt, nhưng chung quy lại nhằm mục tiêu tối ưu hóa hiệu năng, độ tin cậy và khả năng mở rộng.
+Hệ thống phân tán (**Distributed System**) là tập hợp nhiều máy tính độc lập được liên kết với nhau, phối hợp hoạt động như một hệ thống duy nhất đối với người dùng. Mỗi máy tính trong hệ thống có thể thực hiện các nhiệm vụ riêng biệt, nhưng chung quy lại nhằm mục tiêu tối ưu hóa hgitiệu năng, độ tin cậy và khả năng mở rộng.
 
 **Ví dụ:**  
 - Hệ thống máy chủ Google Search: dữ liệu được lưu trữ và xử lý phân tán trên hàng triệu máy chủ.  
